@@ -2,6 +2,8 @@
 <h3 align="center">People who want to learn about technological developments | From Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davinhere&label=Profile%20views&color=0e75b6&style=flat" alt="davinhere" /> </p>
+<img align="right" alt="Coding" width="250" height="400" src="dav.jpg">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davinhere" alt="davinhere" /></a> </p>
 
